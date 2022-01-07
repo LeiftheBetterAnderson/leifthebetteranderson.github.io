@@ -1,13 +1,13 @@
-###Projects:
+# Projects:
 
-##Korean Learning
+## Korean Learning
 [Link](https://leifthebetteranderson.github.io/Korean/main.html)
 
-##Scatter
+## Scatter
 [Link](https://leifthebetteranderson.github.io/Scatter/main.html)
 
-##Jump to Infinity
+## Jump to Infinity
 [Link](https://leifthebetteranderson.github.io/Jump-to-Infinity/main.html)
 
-##Pre-History
+## Pre-History
 [Link](https://leifthebetteranderson.github.io/Pre-History/main.html)
